@@ -1,0 +1,285 @@
+,Movie_name,Movie_release_date,Wikipedia_link,Running_time,Budget(USD),Box_office(USD),Running_time(in minutes)
+0,Snow White and the Seven Dwarfs,"December 21, 1937",https://en.m.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film),83 minutes,1.49 M,418 M,83 
+1,Pinocchio,"February 7, 1940",https://en.m.wikipedia.org/wiki/Pinocchio_(1940_film),88 minutes,2.6 M,164 M,88 
+2,Fantasia,"November 13, 1940",https://en.m.wikipedia.org/wiki/Fantasia_(1940_film),126 minutes,2.28 M,76.4–83.3 M ,126 
+3,The Reluctant Dragon,"June 20, 1941",https://en.m.wikipedia.org/wiki/The_Reluctant_Dragon_(1941_film),74 minutes,"600,000","960,000 ",74 
+4,Dumbo,"October 23, 1941",https://en.m.wikipedia.org/wiki/Dumbo,64 minutes,"950,000",1.3 M ,64 
+5,Bambi,"August 13, 1942",https://en.m.wikipedia.org/wiki/Bambi,70 minutes,"858,000",267.4 M,70 
+6,Victory Through Air Power,"July 17, 1943",https://en.m.wikipedia.org/wiki/Victory_Through_Air_Power_(film),70 min,"788,000","799,000",70 
+7,Make Mine Music,"April 20, 1946",https://en.m.wikipedia.org/wiki/Make_Mine_Music,75 minutes,1.35 M,3.275 M ,75 
+8,Song of the South,"November 12, 1946",https://en.m.wikipedia.org/wiki/Song_of_the_South,94 minutes,2.125 M,65 M,94 
+9,Melody Time,"May 27, 1948",https://en.m.wikipedia.org/wiki/Melody_Time,75 minutes,1.5 M,2.56 M ,75 
+10,So Dear to My Heart,"November 29, 1948",https://en.m.wikipedia.org/wiki/So_Dear_to_My_Heart,82 minutes,1.5 M,3.7 M ,82 
+11,Cinderella,"February 15, 1950",https://en.m.wikipedia.org/wiki/Cinderella_(1950_film),74 minutes,2.2 M,263.6 M,74 
+12,Treasure Island,"July 29, 1950",https://en.m.wikipedia.org/wiki/Treasure_Island_(1950_film),96 minutes,"1,800,000","4,100,000 ",96 
+13,Alice in Wonderland,"July 28, 1951",https://en.m.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film),75 minutes,3 M,"['2.4 M (1951, domestic)', '3.5 M (1974, domestic)']",75 
+14,Peter Pan,"February 5, 1953",https://en.m.wikipedia.org/wiki/Peter_Pan_(1953_film),77 minutes,4 M,87.4 M ,77 
+15,The Sword and the Rose,"July 23, 1953",https://en.m.wikipedia.org/wiki/The_Sword_and_the_Rose,92 minutes,2 M,1 M ,92 
+16,The Living Desert,"November 10, 1953",https://en.m.wikipedia.org/wiki/The_Living_Desert,69 minutes,"300,000",2.6 M ,69 
+17,"20,000 Leagues Under the Sea","December 23, 1954","https://en.m.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",127 minutes,5 M,28.2 M,127 
+18,Lady and the Tramp,"June 22, 1955",https://en.m.wikipedia.org/wiki/Lady_and_the_Tramp,76 minutes,4 M,187 M,76 
+19,Sleeping Beauty,"January 29, 1959",https://en.m.wikipedia.org/wiki/Sleeping_Beauty_(1959_film),75 minutes,6 M,51.6 M ,75 
+20,The Shaggy Dog,"March 19, 1959",https://en.m.wikipedia.org/wiki/The_Shaggy_Dog_(1959_film),104 minutes,"under 1 M or 1,250,000",12.3 M ,104 
+21,Third Man on the Mountain,"November 10, 1959",https://en.m.wikipedia.org/wiki/Third_Man_on_the_Mountain,105 minutes,2 M,"1,700,000 ",105 
+22,Pollyanna,"May 19, 1960",https://en.m.wikipedia.org/wiki/Pollyanna_(1960_film),134 minutes,2.5 M,3.75 M ,134 
+23,Swiss Family Robinson,"December 21, 1960",https://en.m.wikipedia.org/wiki/Swiss_Family_Robinson_(1960_film),131 minutes,4 M,40 M,131 
+24,One Hundred and One Dalmatians,"January 25, 1961",https://en.m.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians,79 minutes,3.6 M,303 M,79 
+25,Babes in Toyland,"December 14, 1961",https://en.m.wikipedia.org/wiki/Babes_in_Toyland_(1961_film),105 minutes,3 M,4.6 M ,105 
+26,Bon Voyage!,"May 17, 1962",https://en.m.wikipedia.org/wiki/Bon_Voyage!_(1962_film),130 minutes,3 M,5 M ,130 
+27,The Sword in the Stone,"December 25, 1963",https://en.m.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film),79 minutes,3 M,22.2 M ,79 
+28,Mary Poppins,"August 29, 1964",https://en.m.wikipedia.org/wiki/Mary_Poppins_(film),139 minutes,4.4–6 M,103.1 M,139 
+29,The Jungle Book,"October 18, 1967",https://en.m.wikipedia.org/wiki/The_Jungle_Book_(1967_film),78 minutes,4 M,378 M,78 
+30,The Happiest Millionaire,"November 30, 1967",https://en.m.wikipedia.org/wiki/The_Happiest_Millionaire,164 minutes ( Los Angeles premiere) 144 minutes ( New York City premiere) 118 minutes (General release) 172 minutes ( Director's cut ),5 M,5 M ,164  ( Los Angeles premiere) 144  ( New York City premiere) 118  (General release) 172  ( Director's cut )
+31,The Love Bug,"December 24, 1968",https://en.m.wikipedia.org/wiki/The_Love_Bug,108 minutes,5 M,"51,264,000",108 
+32,The Aristocats,"December 24, 1970",https://en.m.wikipedia.org/wiki/The_Aristocats,79 minutes,4 M,191 M,79 
+33,Bedknobs and Broomsticks,"December 13, 1971",https://en.m.wikipedia.org/wiki/Bedknobs_and_Broomsticks,118 minutes (1971 original version) 139 minutes (1996 reconstruction version),6.3 M,17.9 M,118  (1971 original version) 139  (1996 reconstruction version)
+34,Robin Hood,"November 8, 1973",https://en.m.wikipedia.org/wiki/Robin_Hood_(1973_film),83 minutes,5 M,32 M,83 
+35,The Island at the Top of the World,"December 20, 1974",https://en.m.wikipedia.org/wiki/The_Island_at_the_Top_of_the_World,93 minutes,8 M,10 M ,93 
+36,Freaky Friday,"December 17, 1976",https://en.m.wikipedia.org/wiki/Freaky_Friday_(1976_film),95 minutes,5 M,36 M,95 
+37,The Rescuers,"June 22, 1977",https://en.m.wikipedia.org/wiki/The_Rescuers,77 minutes,7.5 M,169 M,77 
+38,Pete's Dragon,"November 3, 1977",https://en.m.wikipedia.org/wiki/Pete%27s_Dragon_(1977_film),128 minutes,10 M,36 –39.6 M,128 
+39,The Black Hole,"December 21, 1979",https://en.m.wikipedia.org/wiki/The_Black_Hole,98 minutes,20 M,35.8 M,98 
+40,The Watcher in the Woods,"April 17, 1980",https://en.m.wikipedia.org/wiki/The_Watcher_in_the_Woods_(1980_film),84 minutes,9 M,5 M,84 
+41,The Last Flight of Noah's Ark,"June 25, 1980",https://en.m.wikipedia.org/wiki/The_Last_Flight_of_Noah%27s_Ark,97 minutes,6-8 M,11 M,97 
+42,Popeye,"December 12, 1980",https://en.m.wikipedia.org/wiki/Popeye_(film),114 minutes,20 M,60 M,114 
+43,Dragonslayer,"June 26, 1981",https://en.m.wikipedia.org/wiki/Dragonslayer_(1981_film),109 minutes,18 M,14.1 M,109 
+44,The Fox and the Hound,"July 10, 1981",https://en.m.wikipedia.org/wiki/The_Fox_and_the_Hound,83 minutes,12 M,63.5 M,83 
+45,Tron,"July 9, 1982",https://en.m.wikipedia.org/wiki/Tron,96 minutes,N/A,N/A,96 
+46,Tex,"July 30, 1982",https://en.m.wikipedia.org/wiki/Tex_(film),103 minutes,5 M,7.4 M,103 
+47,Trenchcoat,"March 11, 1983",https://en.m.wikipedia.org/wiki/Trenchcoat_(film),91 min,unknown,"4,304,286 ",91 
+48,Something Wicked This Way Comes,"April 29, 1983",https://en.m.wikipedia.org/wiki/Something_Wicked_This_Way_Comes_(film),95 minutes,20 M,8.4 M,95 
+49,Never Cry Wolf,"October 7, 1983",https://en.m.wikipedia.org/wiki/Never_Cry_Wolf_(film),105 minutes,11 M,27.6 M,105 
+50,Return to Oz,"June 21, 1985",https://en.m.wikipedia.org/wiki/Return_to_Oz,113 minutes,28 M,11.1 M ,113 
+51,The Black Cauldron,"July 24, 1985",https://en.m.wikipedia.org/wiki/The_Black_Cauldron_(film),80 minutes,44 M,21.3 M,80 
+52,The Great Mouse Detective,"July 2, 1986",https://en.m.wikipedia.org/wiki/The_Great_Mouse_Detective,74 minutes,14 M,38.7 M,74 
+53,Flight of the Navigator,"July 30, 1986",https://en.m.wikipedia.org/wiki/Flight_of_the_Navigator,90 minutes,9 M,"18,564,613",90 
+54,Return to Snowy River,"April 15, 1988",https://en.m.wikipedia.org/wiki/The_Man_from_Snowy_River_II,110 minutes,A8.7 M,"13,687,027",110 
+55,Oliver & Company,"November 18, 1988",https://en.m.wikipedia.org/wiki/Oliver_%26_Company,74 minutes,31 M,121 M,74 
+56,"Honey, I Shrunk the Kids","June 23, 1989","https://en.m.wikipedia.org/wiki/Honey,_I_Shrunk_the_Kids",93 minutes,18 M,222.7 M,93 
+57,Cheetah,"August 18, 1989",https://en.m.wikipedia.org/wiki/Cheetah_(1989_film),84 minutes,5 M,"8,153,677 ",84 
+58,The Little Mermaid,"November 17, 1989",https://en.m.wikipedia.org/wiki/The_Little_Mermaid_(1989_film),83 minutes,40 M,N/A,83 
+59,DuckTales the Movie: Treasure of the Lost Lamp,"August 3, 1990",https://en.m.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp,74 minutes,20 M,18.1 M,74 
+60,White Fang,"January 18, 1991",https://en.m.wikipedia.org/wiki/White_Fang_(1991_film),107 minutes,14 M,34.8 M,107 
+61,Shipwrecked,"March 1, 1991",https://en.m.wikipedia.org/wiki/Shipwrecked_(1990_film),93 minutes,60 M Norwegian Kroner (around 8.7 M in 1989),15.1 M,93 
+62,The Rocketeer,"June 21, 1991",https://en.m.wikipedia.org/wiki/The_Rocketeer_(film),108 minutes,35-40 M,46.7 M ,108 
+63,Beauty and the Beast,"November 22, 1991",https://en.m.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film),84 minutes,25 M,440.1 M,84 
+64,Newsies,"April 10, 1992",https://en.m.wikipedia.org/wiki/Newsies,121 minutes,15 M,2.8 M,121 
+65,"Honey, I Blew Up the Kid","July 17, 1992","https://en.m.wikipedia.org/wiki/Honey,_I_Blew_Up_the_Kid",89 minutes,40 M,96 M,89 
+66,The Mighty Ducks,"October 2, 1992",https://en.m.wikipedia.org/wiki/The_Mighty_Ducks_(film),104 minutes,14 M,50.8 M,104 
+67,Aladdin,"November 25, 1992",https://en.m.wikipedia.org/wiki/Aladdin_(1992_Disney_film),90 minutes,28 M,504.1 M,90 
+68,The Muppet Christmas Carol,"December 11, 1992",https://en.m.wikipedia.org/wiki/The_Muppet_Christmas_Carol,86 minutes,12 M,27.2 M,86 
+69,The Adventures of Huck Finn,"April 2, 1993",https://en.m.wikipedia.org/wiki/The_Adventures_of_Huck_Finn_(1993_film),107 minutes,6.5 M,24.1 M,107 
+70,Hocus Pocus,"July 16, 1993",https://en.m.wikipedia.org/wiki/Hocus_Pocus_(1993_film),96 minutes,28 M,44.9 M,96 
+71,Cool Runnings,"October 1, 1993",https://en.m.wikipedia.org/wiki/Cool_Runnings,98 minutes,17 M,154.9 M,98 
+72,The Three Musketeers,"November 12, 1993",https://en.m.wikipedia.org/wiki/The_Three_Musketeers_(1993_film),105 minutes,30 M,53.9 M,105 
+73,Blank Check,"February 11, 1994",https://en.m.wikipedia.org/wiki/Blank_Check_(film),94 minutes,13 M,39 M,94 
+74,The Lion King,"June 15, 1994",https://en.m.wikipedia.org/wiki/The_Lion_King,88 minutes,45 M,968.5 M,88 
+75,Angels in the Outfield,"July 15, 1994",https://en.m.wikipedia.org/wiki/Angels_in_the_Outfield_(1994_film),102 minutes,31 M,50.2 M,102 
+76,The Santa Clause,"November 11, 1994",https://en.m.wikipedia.org/wiki/The_Santa_Clause,97 minutes,22 M,189.8 M,97 
+77,Rudyard Kipling's The Jungle Book,"December 25, 1994",https://en.m.wikipedia.org/wiki/The_Jungle_Book_(1994_film),111 minutes,30 M,43.2 M,111 
+78,Man of the House,"March 3, 1995",https://en.m.wikipedia.org/wiki/Man_of_the_House_(1995_film),96 minutes,22 M,"40,070,995",96 
+79,Tall Tale,"March 24, 1995",https://en.m.wikipedia.org/wiki/Tall_Tale_(film),98 minutes,32 M (estimated),11 M,98 
+80,A Goofy Movie,"April 7, 1995",https://en.m.wikipedia.org/wiki/A_Goofy_Movie,78 minutes,18 M,37.6 M,78 
+81,Pocahontas,"June 23, 1995",https://en.m.wikipedia.org/wiki/Pocahontas_(1995_film),81 minutes,55 M,346.1 M,81 
+82,Operation Dumbo Drop,"July 28, 1995",https://en.m.wikipedia.org/wiki/Operation_Dumbo_Drop,108 minutes,24 M,"24,670,346",108 
+83,A Kid in King Arthur's Court,"August 11, 1995",https://en.m.wikipedia.org/wiki/A_Kid_in_King_Arthur%27s_Court,89 minutes,15 M,13.4 M ,89 
+84,The Big Green,"September 29, 1995",https://en.m.wikipedia.org/wiki/The_Big_Green,99 minutes,12 M,17.7 M,99 
+85,Toy Story,"November 22, 1995",https://en.m.wikipedia.org/wiki/Toy_Story,81 minutes,30 M,373 M,81 
+86,Muppet Treasure Island,"February 16, 1996",https://en.m.wikipedia.org/wiki/Muppet_Treasure_Island,100 minutes,31 M,34.3 M ,100 
+87,James and the Giant Peach,"April 12, 1996",https://en.m.wikipedia.org/wiki/James_and_the_Giant_Peach_(film),79 minutes,38 M,37.7 M,79 
+88,The Hunchback of Notre Dame,"June 21, 1996",https://en.m.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1996_film),91 minutes,70 M,325.3 M,91 
+89,First Kid,"August 30, 1996",https://en.m.wikipedia.org/wiki/First_Kid,101 minutes,15 M,"26,465,920 ",101 
+90,101 Dalmatians,"November 27, 1996",https://en.m.wikipedia.org/wiki/101_Dalmatians_(1996_film),103 minutes,67 M,320.7 M,103 
+91,Jungle 2 Jungle,"March 7, 1997",https://en.m.wikipedia.org/wiki/Jungle_2_Jungle,105 minutes,32 M,59.9 M,105 
+92,Hercules,"June 27, 1997",https://en.m.wikipedia.org/wiki/Hercules_(1997_film),93 minutes,85 M,252.7 M,93 
+93,George of the Jungle,"July 16, 1997",https://en.m.wikipedia.org/wiki/George_of_the_Jungle_(film),92 minutes,55 M,174.4 M,92 
+94,Air Bud,"August 1, 1997",https://en.m.wikipedia.org/wiki/Air_Bud,98 minutes,3 M,27.8 M,98 
+95,RocketMan,"October 10, 1997",https://en.m.wikipedia.org/wiki/RocketMan,95 minutes,16 M,15.4 M,95 
+96,Flubber,"November 26, 1997",https://en.m.wikipedia.org/wiki/Flubber_(film),93 minutes,80 M,178 M,93 
+97,Mr. Magoo,"December 25, 1997",https://en.m.wikipedia.org/wiki/Mr._Magoo_(film),87 minutes,30 M,28.9 M,87 
+98,Meet the Deedles,"March 27, 1998",https://en.m.wikipedia.org/wiki/Meet_the_Deedles,93 minutes,24 M,4.4 M,93 
+99,Mulan,"June 19, 1998",https://en.m.wikipedia.org/wiki/Mulan_(1998_film),87 minutes,90 M,304.3 M,87 
+100,The Parent Trap,"July 29, 1998",https://en.m.wikipedia.org/wiki/The_Parent_Trap_(1998_film),128 minutes,15 M,92.1 M,128 
+101,I'll Be Home for Christmas,"November 13, 1998",https://en.m.wikipedia.org/wiki/I%27ll_Be_Home_for_Christmas_(1998_film),86 minutes,30 M,12.2 M,86 
+102,A Bug's Life,"November 25, 1998",https://en.m.wikipedia.org/wiki/A_Bug%27s_Life,95 minutes,120 M,363.3 M,95 
+103,Mighty Joe Young,"December 25, 1998",https://en.m.wikipedia.org/wiki/Mighty_Joe_Young_(1998_film),114 minutes,90 M,50.6 M ,114 
+104,My Favorite Martian,"February 12, 1999",https://en.m.wikipedia.org/wiki/My_Favorite_Martian_(film),93 minutes,65 M,36.8 M,93 
+105,Doug's 1st Movie,"March 26, 1999",https://en.m.wikipedia.org/wiki/Doug%27s_1st_Movie,83 minutes,5 M,19.4 M,83 
+106,Tarzan,"June 18, 1999",https://en.m.wikipedia.org/wiki/Tarzan_(1999_film),88 minutes,130 M,448.2 M,88 
+107,Inspector Gadget,"July 23, 1999",https://en.m.wikipedia.org/wiki/Inspector_Gadget_(film),78 minutes,75–90 M,134.4 M,78 
+108,The Straight Story,"October 15, 1999",https://en.m.wikipedia.org/wiki/The_Straight_Story,112 minutes,10 M,6.2 M,112 
+109,Toy Story 2,"November 24, 1999",https://en.m.wikipedia.org/wiki/Toy_Story_2,92 minutes,90 M,497.4 M,92 
+110,Fantasia 2000,"January 1, 2000",https://en.m.wikipedia.org/wiki/Fantasia_2000,74 minutes,80–85 M,90.9 M,74 
+111,The Tigger Movie,"February 11, 2000",https://en.m.wikipedia.org/wiki/The_Tigger_Movie,78 minutes,15 M –30 M,96.2 M,78 
+112,Whispers: An Elephant's Tale,"March 10, 2000",https://en.m.wikipedia.org/wiki/Whispers:_An_Elephant%27s_Tale,72 minutes,"4,000,000 (estimated)","500,000 ",72 
+113,Dinosaur,"May 19, 2000",https://en.m.wikipedia.org/wiki/Dinosaur_(film),82 minutes,127.5 M,349.8 M,82 
+114,Disney's The Kid,"July 7, 2000",https://en.m.wikipedia.org/wiki/Disney%27s_The_Kid,104 minutes,65 M,110.3 M,104 
+115,Remember the Titans,"September 29, 2000",https://en.m.wikipedia.org/wiki/Remember_the_Titans,113 minutes,30 M,136.8 M,113 
+116,102 Dalmatians,"November 22, 2000",https://en.m.wikipedia.org/wiki/102_Dalmatians,100 minutes,85 M,183.6 M,100 
+117,The Emperor's New Groove,"December 15, 2000",https://en.m.wikipedia.org/wiki/The_Emperor%27s_New_Groove,78 minutes,100 M,169.6 M,78 
+118,Recess: School's Out,"February 16, 2001",https://en.m.wikipedia.org/wiki/Recess:_School%27s_Out,83 minutes,23 M,44.5 M,83 
+119,Atlantis: The Lost Empire,"June 15, 2001",https://en.m.wikipedia.org/wiki/Atlantis:_The_Lost_Empire,96 minutes,90–120 M,186.1 M,96 
+120,The Princess Diaries,"August 3, 2001",https://en.m.wikipedia.org/wiki/The_Princess_Diaries_(film),115 minutes,26 M,165.3 M,115 
+121,Max Keeble's Big Move,"October 5, 2001",https://en.m.wikipedia.org/wiki/Max_Keeble%27s_Big_Move,86 minutes,25 M,18.6 M,86 
+122,"Monsters, Inc.","November 2, 2001","https://en.m.wikipedia.org/wiki/Monsters,_Inc.",92 minutes,115 M,577.4 M,92 
+123,Snow Dogs,"January 18, 2002",https://en.m.wikipedia.org/wiki/Snow_Dogs,99 minutes,33 M,115 M,99 
+124,Peter Pan in Return to Neverland,"February 15, 2002",https://en.m.wikipedia.org/wiki/Return_to_Never_Land,73 minutes,20 M,115.1 M,73 
+125,The Rookie,"March 29, 2002",https://en.m.wikipedia.org/wiki/The_Rookie_(2002_film),128 minutes,22 M,80.7 M,128 
+126,Lilo & Stitch,"June 21, 2002",https://en.m.wikipedia.org/wiki/Lilo_%26_Stitch,85 minutes,80 M,273.1 M,85 
+127,The Country Bears,"July 26, 2002",https://en.m.wikipedia.org/wiki/The_Country_Bears,88 minutes,35 M,18 M,88 
+128,Tuck Everlasting,"October 11, 2002",https://en.m.wikipedia.org/wiki/Tuck_Everlasting_(2002_film),96 minutes,15 M,19.3 M,96 
+129,The Santa Clause 2,"November 1, 2002",https://en.m.wikipedia.org/wiki/The_Santa_Clause_2,104 minutes,65 M,172.9 M,104 
+130,Treasure Planet,"November 27, 2002",https://en.m.wikipedia.org/wiki/Treasure_Planet,95 minutes,140 M,109.6 M,95 
+131,The Jungle Book 2,"February 14, 2003",https://en.m.wikipedia.org/wiki/The_Jungle_Book_2,72 minutes,20 M,135.7 M,72 
+132,Piglet's Big Movie,"March 21, 2003",https://en.m.wikipedia.org/wiki/Piglet%27s_Big_Movie,75 minutes,46 M,62.9 M,75 
+133,Ghosts of the Abyss,"April 11, 2003",https://en.m.wikipedia.org/wiki/Ghosts_of_the_Abyss,61 minutes,13 M,28.7 M,61 
+134,Holes,"April 18, 2003",https://en.m.wikipedia.org/wiki/Holes_(film),117 minutes,20 M,71.4 M,117 
+135,The Lizzie McGuire Movie,"May 2, 2003",https://en.m.wikipedia.org/wiki/The_Lizzie_McGuire_Movie,94 minutes,17 M,55.5 M,94 
+136,Finding Nemo,"May 30, 2003",https://en.m.wikipedia.org/wiki/Finding_Nemo,100 minutes,94 M,940.3 M,100 
+137,Pirates of the Caribbean: The Curse of the Black Pearl,"July 9, 2003",https://en.m.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl,143 minutes,140 M,654.3 M,143 
+138,Freaky Friday,"August 6, 2003",https://en.m.wikipedia.org/wiki/Freaky_Friday_(2003_film),97 minutes,26 M,160.8 M,97 
+139,Brother Bear,"November 1, 2003",https://en.m.wikipedia.org/wiki/Brother_Bear,85 minutes,46 M,250.4 M,85 
+140,The Haunted Mansion,"November 26, 2003",https://en.m.wikipedia.org/wiki/The_Haunted_Mansion_(film),86 minutes,90 M,182.3 M,86 
+141,Teacher's Pet,"January 16, 2004",https://en.m.wikipedia.org/wiki/Teacher%27s_Pet_(2004_film),74 minutes,10 M,6.5 M,74 
+142,Miracle,"February 6, 2004",https://en.m.wikipedia.org/wiki/Miracle_(2004_film),136 minutes,28 M,64.5 M,136 
+143,Confessions of a Teenage Drama Queen,"February 20, 2004",https://en.m.wikipedia.org/wiki/Confessions_of_a_Teenage_Drama_Queen,89 minutes,15 M,33.1 M,89 
+144,Home on the Range,"April 2, 2004",https://en.m.wikipedia.org/wiki/Home_on_the_Range_(2004_film),76 minutes,110 M,145.5 M,76 
+145,Around the World in 80 Days,"June 16, 2004",https://en.m.wikipedia.org/wiki/Around_the_World_in_80_Days_(2004_film),120 minutes,110 M,72.2 M,120 
+146,The Princess Diaries 2: Royal Engagement,"August 11, 2004",https://en.m.wikipedia.org/wiki/The_Princess_Diaries_2:_Royal_Engagement,113 minutes,45 M,134.7 M,113 
+147,The Incredibles,"November 5, 2004",https://en.m.wikipedia.org/wiki/The_Incredibles,115 minutes,92 M,633 M,115 
+148,National Treasure,"November 19, 2004",https://en.m.wikipedia.org/wiki/National_Treasure_(film),131 minutes,100 M,347.5 M,131 
+149,Pooh's Heffalump Movie,"February 11, 2005",https://en.m.wikipedia.org/wiki/Pooh%27s_Heffalump_Movie,68 minutes,20 M,52.9 M,68 
+150,The Pacifier,"March 4, 2005",https://en.m.wikipedia.org/wiki/The_Pacifier,95 minutes,56 M,198.6 M,95 
+151,Ice Princess,"March 18, 2005",https://en.m.wikipedia.org/wiki/Ice_Princess,97 minutes,25 M,27.6 M,97 
+152,Herbie: Fully Loaded,"June 22, 2005",https://en.m.wikipedia.org/wiki/Herbie:_Fully_Loaded,101 minutes,50 M,144.1 M,101 
+153,Sky High,"July 29, 2005",https://en.m.wikipedia.org/wiki/Sky_High_(2005_film),100 minutes,35 M,86.4 M,100 
+154,Valiant,"August 19, 2005",https://en.m.wikipedia.org/wiki/Valiant_(film),76 minutes,35 M,61.7 M,76 
+155,The Greatest Game Ever Played,"September 30, 2005",https://en.m.wikipedia.org/wiki/The_Greatest_Game_Ever_Played,120 minutes,25 M,15.4 M,120 
+156,Chicken Little,"November 4, 2005",https://en.m.wikipedia.org/wiki/Chicken_Little_(2005_film),81 minutes,150 M,314.4 M,81 
+157,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","December 9, 2005","https://en.m.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe",143 minutes,180 M,745 M,143 
+158,Glory Road,"January 13, 2006",https://en.m.wikipedia.org/wiki/Glory_Road_(film),118 minutes,30 M,42.9 M,118 
+159,Roving Mars,"January 27, 2006",https://en.m.wikipedia.org/wiki/Roving_Mars,40 minutes,1 M,11 M,40 
+160,Eight Below,"February 17, 2006",https://en.m.wikipedia.org/wiki/Eight_Below,120 minutes,40 M,120.5 M,120 
+161,The Shaggy Dog,"March 10, 2006",https://en.m.wikipedia.org/wiki/The_Shaggy_Dog_(2006_film),99 minutes,50 M,87.1 M,99 
+162,The Wild,"April 14, 2006",https://en.m.wikipedia.org/wiki/The_Wild,82 minutes,80 M,102.3 M,82 
+163,Cars,"June 9, 2006",https://en.m.wikipedia.org/wiki/Cars_(film),117 minutes,120 M,462 M,117 
+164,Pirates of the Caribbean: Dead Man's Chest,"July 7, 2006",https://en.m.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest,150 minutes,225 M,1.066 billion,150 
+165,Invincible,"August 25, 2006",https://en.m.wikipedia.org/wiki/Invincible_(2006_film),104 minutes,30 M,58.5 M,104 
+166,The Santa Clause 3: The Escape Clause,"November 3, 2006",https://en.m.wikipedia.org/wiki/The_Santa_Clause_3:_The_Escape_Clause,92 minutes,12 M,110.8 M,92 
+167,Bridge to Terabithia,"February 16, 2007",https://en.m.wikipedia.org/wiki/Bridge_to_Terabithia_(2007_film),95 minutes,20–25 M,137.6 M,95 
+168,Meet the Robinsons,"March 30, 2007",https://en.m.wikipedia.org/wiki/Meet_the_Robinsons,94 minutes,150 M,169.3 M,94 
+169,Pirates of the Caribbean: At World's End,"May 25, 2007",https://en.m.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End,167 minutes,300 M,960.9 M,167 
+170,Ratatouille,"June 29, 2007",https://en.m.wikipedia.org/wiki/Ratatouille_(film),111 minutes,150 M,623.7 M,111 
+171,Underdog,"August 3, 2007",https://en.m.wikipedia.org/wiki/Underdog_(2007_film),82 minutes,25 M,65.3 M,82 
+172,The Game Plan,"September 28, 2007",https://en.m.wikipedia.org/wiki/The_Game_Plan_(film),110 minutes,22 M,146.6 M,110 
+173,Enchanted,"November 21, 2007",https://en.m.wikipedia.org/wiki/Enchanted_(film),107 minutes,85 M,340.5 M,107 
+174,National Treasure: Book of Secrets,"December 21, 2007",https://en.m.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets,124 minutes,130 M,459.2 M,124 
+175,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,"February 1, 2008",https://en.m.wikipedia.org/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert,74 minutes,7 M,70.6 M,74 
+176,College Road Trip,"March 7, 2008",https://en.m.wikipedia.org/wiki/College_Road_Trip,83 minutes,25 M,51.5 M,83 
+177,The Chronicles of Narnia: Prince Caspian,"May 16, 2008",https://en.m.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian,150 minutes,225 M,419.7 M,150 
+178,WALL-E,"June 27, 2008",https://en.m.wikipedia.org/wiki/WALL-E,97 minutes,180 M,521.3 M,97 
+179,Beverly Hills Chihuahua,"October 3, 2008",https://en.m.wikipedia.org/wiki/Beverly_Hills_Chihuahua,91 minutes,20 M,149.3 M,91 
+180,High School Musical 3: Senior Year,"October 24, 2008",https://en.m.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year,112 minutes,11 M,252.9 M,112 
+181,Bolt,"November 21, 2008",https://en.m.wikipedia.org/wiki/Bolt_(2008_film),96 minutes,150 M,310 M,96 
+182,Bedtime Stories,"December 25, 2008",https://en.m.wikipedia.org/wiki/Bedtime_Stories_(film),99 minutes,80 M,212.9 M,99 
+183,Race to Witch Mountain,"March 13, 2009",https://en.m.wikipedia.org/wiki/Race_to_Witch_Mountain,98 minutes,50 M,106.4 M,98 
+184,Hannah Montana: The Movie,"April 10, 2009",https://en.m.wikipedia.org/wiki/Hannah_Montana:_The_Movie,97 minutes,30 M,170 M,97 
+185,Earth,"April 22, 2009",https://en.m.wikipedia.org/wiki/Earth_(2007_film),99 minutes (UK) 90 minutes (U.S.),47 M,109 M,99  (UK) 90  (U.S.)
+186,Up,"May 29, 2009",https://en.m.wikipedia.org/wiki/Up_(2009_film),96 minutes,175 M,735.1 M,96 
+187,G-Force,"July 24, 2009",https://en.m.wikipedia.org/wiki/G-Force_(film),90 minutes,150 M,292.8 M,90 
+188,The Book of Masters,"October 29, 2009",https://en.m.wikipedia.org/wiki/The_Book_of_Masters,101 minutes,8 M ( ₽ 350 M),11.3 M,101 
+189,Disney's A Christmas Carol,"November 6, 2009",https://en.m.wikipedia.org/wiki/A_Christmas_Carol_(2009_film),96 minutes,175-200 M,325 M,96 
+190,Old Dogs,"November 25, 2009",https://en.m.wikipedia.org/wiki/Old_Dogs_(film),88 minutes,35 M,96.8 M,88 
+191,The Princess and the Frog,"December 11, 2009",https://en.m.wikipedia.org/wiki/The_Princess_and_the_Frog,97 minutes,105 M,271 M,97 
+192,Alice in Wonderland,"March 5, 2010",https://en.m.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film),108 minutes,150 –200 M,1.025 billion,108 
+193,Oceans,"April 22, 2010",https://en.m.wikipedia.org/wiki/Oceans_(film),104 minutes (Original cut) 84 minutes (Disney cut),80 M,82.7 M,104  (Original cut) 84  (Disney cut)
+194,Prince of Persia: The Sands of Time,"May 28, 2010",https://en.m.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time_(film),116 minutes,150–200 M,336.4 M,116 
+195,Toy Story 3,"June 18, 2010",https://en.m.wikipedia.org/wiki/Toy_Story_3,103 minutes,200 M,1.067 billion,103 
+196,The Sorcerer's Apprentice,"July 14, 2010",https://en.m.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film),109 minutes,150 M,215.3 M,109 
+197,Secretariat,"October 8, 2010",https://en.m.wikipedia.org/wiki/Secretariat_(film),123 minutes,35 M,60.3 M,123 
+198,Tangled,"November 24, 2010",https://en.m.wikipedia.org/wiki/Tangled,100 minutes,260 M,592.4 M,100 
+199,Tron: Legacy,"December 17, 2010",https://en.m.wikipedia.org/wiki/Tron:_Legacy,125 minutes,170 M,400.1 M,125 
+200,Mars Needs Moms,"March 11, 2011",https://en.m.wikipedia.org/wiki/Mars_Needs_Moms,88 minutes,150 M,39.2 M,88 
+201,African Cats,as Disneynature; Fothergill / Scholey Productions and Silverback Films[6],https://en.m.wikipedia.org/wiki/African_Cats,89 minutes,5 M,30.9 M,89 
+202,Prom,"April 29, 2011",https://en.m.wikipedia.org/wiki/Prom_(film),104 minutes,8 M,10.7 M,104 
+203,Pirates of the Caribbean: On Stranger Tides,"May 20, 2011",https://en.m.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides,137 minutes,"['410.6 M (gross)', '378.5 M (net)']",1.046 billion,137 
+204,Cars 2,"June 24, 2011",https://en.m.wikipedia.org/wiki/Cars_2,106 minutes,200 M,562.1 M,106 
+205,Winnie the Pooh,"July 15, 2011",https://en.m.wikipedia.org/wiki/Winnie_the_Pooh_(2011_film),63 minutes,30 M,50.1 M,63 
+206,The Muppets,"November 23, 2011",https://en.m.wikipedia.org/wiki/The_Muppets_(film),103 minutes,45 M,165.2 M,103 
+207,John Carter,"March 9, 2012",https://en.m.wikipedia.org/wiki/John_Carter_(film),132 minutes,"['306.6 M (gross)', '263.7 M (net)']",284.1 M,132 
+208,Chimpanzee,"April 20, 2012",https://en.m.wikipedia.org/wiki/Chimpanzee_(film),77 minutes,5 M,34.8 M,77 
+209,Brave,"June 22, 2012",https://en.m.wikipedia.org/wiki/Brave_(2012_film),93 minutes,185 M,540.4 M,93 
+210,The Odd Life of Timothy Green,"August 15, 2012",https://en.m.wikipedia.org/wiki/The_Odd_Life_of_Timothy_Green,104 minutes,25 M,56 M,104 
+211,Frankenweenie,"October 5, 2012",https://en.m.wikipedia.org/wiki/Frankenweenie_(2012_film),87 minutes,39 M,81.5 M,87 
+212,Wreck-It Ralph,"November 2, 2012",https://en.m.wikipedia.org/wiki/Wreck-It_Ralph,101 minutes,165 M,471.2 M,101 
+213,Oz the Great and Powerful,"March 8, 2013",https://en.m.wikipedia.org/wiki/Oz_the_Great_and_Powerful,130 minutes,200–215 M,493.3 M,130 
+214,Monsters University,"June 21, 2013",https://en.m.wikipedia.org/wiki/Monsters_University,104 minutes,200 M,743.6 M,104 
+215,The Lone Ranger,"July 3, 2013",https://en.m.wikipedia.org/wiki/The_Lone_Ranger_(2013_film),149 minutes,225–250 M,260.5 M,149 
+216,Planes,"August 9, 2013",https://en.m.wikipedia.org/wiki/Planes_(film),92 minutes,50 M,239.3 M,92 
+217,Frozen,"November 27, 2013",https://en.m.wikipedia.org/wiki/Frozen_(2013_film),102 minutes,150 M,1.280 billion,102 
+218,Saving Mr. Banks,"December 13, 2013",https://en.m.wikipedia.org/wiki/Saving_Mr._Banks,125 minutes,35 M,117.9 M,125 
+219,Muppets Most Wanted,"March 21, 2014",https://en.m.wikipedia.org/wiki/Muppets_Most_Wanted,107 minutes,51 M,80.4 M,107 
+220,Bears,"April 18, 2014",https://en.m.wikipedia.org/wiki/Bears_(film),77 minutes,5 M,21.3 M,77 
+221,Million Dollar Arm,"May 16, 2014",https://en.m.wikipedia.org/wiki/Million_Dollar_Arm,124 minutes,25 M,40.2 M,124 
+222,Maleficent,"May 30, 2014",https://en.m.wikipedia.org/wiki/Maleficent_(film),97 minutes,180–263 M,758.5 M,97 
+223,Planes: Fire & Rescue,"July 18, 2014",https://en.m.wikipedia.org/wiki/Planes:_Fire_%26_Rescue,84 minutes,50 M,147 M,84 
+224,Khoobsurat,"September 19, 2014",https://en.m.wikipedia.org/wiki/Khoobsurat_(2014_film),127 minutes,(US3.2 M),est. ,127 
+225,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","October 10, 2014","https://en.m.wikipedia.org/wiki/Alexander_and_the_Terrible,_Horrible,_No_Good,_Very_Bad_Day_(film)",81 minutes,28 M,100.7 M,81 
+226,Big Hero 6,"November 7, 2014",https://en.m.wikipedia.org/wiki/Big_Hero_6_(film),102 minutes,165 M,657.9 M,102 
+227,Into the Woods,"December 25, 2014",https://en.m.wikipedia.org/wiki/Into_the_Woods_(film),124 minutes,50 M,212.9 M,124 
+228,"McFarland, USA","February 20, 2015","https://en.m.wikipedia.org/wiki/McFarland,_USA",129 minutes,17 M,45.7 M,129 
+229,Cinderella,"March 13, 2015",https://en.m.wikipedia.org/wiki/Cinderella_(2015_Disney_film),106 minutes,84.21-95 M,542.4 M,106 
+230,Monkey Kingdom,"April 17, 2015",https://en.m.wikipedia.org/wiki/Monkey_Kingdom,82 minutes,5–10 M,17.1 M,82 
+231,Tomorrowland,"May 22, 2015",https://en.m.wikipedia.org/wiki/Tomorrowland_(film),130 minutes,180–190 M,209 M,130 
+232,Inside Out,"June 19, 2015",https://en.m.wikipedia.org/wiki/Inside_Out_(2015_film),95 minutes,175 M,858.8 M,95 
+233,ABCD 2,"June 19, 2015",https://en.m.wikipedia.org/wiki/ABCD_2,154 minutes,N/A,est.,154 
+234,The Good Dinosaur,"November 25, 2015",https://en.m.wikipedia.org/wiki/The_Good_Dinosaur,97 minutes,175–200 M,332.2 M,97 
+235,The Finest Hours,"January 29, 2016",https://en.m.wikipedia.org/wiki/The_Finest_Hours_(2016_film),117 minutes,70–80 M,52.1 M,117 
+236,Zootopia,"March 4, 2016",https://en.m.wikipedia.org/wiki/Zootopia,108 minutes,150 M,1.024 billion,108 
+237,The Jungle Book,"April 15, 2016",https://en.m.wikipedia.org/wiki/The_Jungle_Book_(2016_film),106 minutes,175–177 M,966.6 M,106 
+238,Alice Through the Looking Glass,"May 27, 2016",https://en.m.wikipedia.org/wiki/Alice_Through_the_Looking_Glass_(2016_film),113 minutes,170 M,299.5 M,113 
+239,Finding Dory,"June 17, 2016",https://en.m.wikipedia.org/wiki/Finding_Dory,97 minutes,175–200 M,1.029 billion,97 
+240,The BFG,"July 1, 2016",https://en.m.wikipedia.org/wiki/The_BFG_(2016_film),118 minutes,140 M,195.2 M,118 
+241,Pete's Dragon,"August 12, 2016",https://en.m.wikipedia.org/wiki/Pete%27s_Dragon_(2016_film),103 minutes,65 M,143.7 M,103 
+242,Queen of Katwe,"September 23, 2016",https://en.m.wikipedia.org/wiki/Queen_of_Katwe,124 minutes,15 M,10.4 M,124 
+243,Moana,"November 23, 2016",https://en.m.wikipedia.org/wiki/Moana_(2016_film),107 minutes,150–175 M,645 M,107 
+244,Dangal,"December 21, 2016",https://en.m.wikipedia.org/wiki/Dangal_(film),161 minutes,70 crore,est. ,161 
+245,L'Empereur - March of the Penguins 2: The Next Step,"February 15, 2017",https://en.m.wikipedia.org/wiki/March_of_the_Penguins#Sequel,80 minutes,8 M,127.4 M,80 
+246,Beauty and the Beast,"March 17, 2017",https://en.m.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film),129 minutes,160–255 M,1.264 billion,129 
+247,Pirates of the Caribbean: Dead Men Tell No Tales,"May 26, 2017",https://en.m.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales,129 minutes,230–320 M,794.9 M,129 
+248,Cars 3,"June 16, 2017",https://en.m.wikipedia.org/wiki/Cars_3,102 minutes,175 M,383.9 M,102 
+249,Jagga Jasoos,"July 14, 2017",https://en.m.wikipedia.org/wiki/Jagga_Jasoos,162 minutes,131 crore,83 crore,162 
+250,The Last Warrior,"October 29, 2017",https://en.m.wikipedia.org/wiki/Last_Knight_(film),114 minutes,~8 M ₽ 370 M,30.5 M ₽ 1.731 billion,114 
+251,Coco,"November 22, 2017",https://en.m.wikipedia.org/wiki/Coco_(2017_film),105 minutes,175–225 M,807.8 M,105 
+252,A Wrinkle in Time,"March 9, 2018",https://en.m.wikipedia.org/wiki/A_Wrinkle_in_Time_(2018_film),109 minutes,100–130 M,133.4 M,109 
+253,Incredibles 2,"June 15, 2018",https://en.m.wikipedia.org/wiki/Incredibles_2,118 minutes,200 M,1.245 billion,118 
+254,Christopher Robin,"August 3, 2018",https://en.m.wikipedia.org/wiki/Christopher_Robin_(film),104 minutes,65-70 M,197.7 M,104 
+255,The Nutcracker and the Four Realms,"November 2, 2018",https://en.m.wikipedia.org/wiki/The_Nutcracker_and_the_Four_Realms,99 minutes,120–133 M,174 M,99 
+256,Ralph Breaks the Internet,"November 21, 2018",https://en.m.wikipedia.org/wiki/Ralph_Breaks_the_Internet,112 minutes,175 M,529.3 M,112 
+257,Mary Poppins Returns,"December 19, 2018",https://en.m.wikipedia.org/wiki/Mary_Poppins_Returns,131 minutes,130 M,349.5 M,131 
+258,Dumbo,"March 29, 2019",https://en.m.wikipedia.org/wiki/Dumbo_(2019_film),112 minutes,170 M,353.3 M,112 
+259,Aladdin,"May 24, 2019",https://en.m.wikipedia.org/wiki/Aladdin_(2019_film),128 minutes,183 M,N/A,128 
+260,Toy Story 4,"June 21, 2019",https://en.m.wikipedia.org/wiki/Toy_Story_4,100 minutes,200 M,1.073 billion,100 
+261,The Lion King,"July 19, 2019",https://en.m.wikipedia.org/wiki/The_Lion_King_(2019_film),118 minutes,250–260 M,1.657 billion,118 
+262,Maleficent: Mistress of Evil,"October 18, 2019",https://en.m.wikipedia.org/wiki/Maleficent:_Mistress_of_Evil,119 minutes,185 M,491.7 M,119 
+263,Frozen II,"November 22, 2019",https://en.m.wikipedia.org/wiki/Frozen_II,103 minutes,150 M,1.450 billion,103 
+264,Onward,"March 6, 2020",https://en.m.wikipedia.org/wiki/Onward_(film),102 minutes,175–200 M,141.9 M,102 
+265,Mulan,"September 4, 2020",https://en.m.wikipedia.org/wiki/Mulan_(2020_film),115 minutes,200 M,70 M,115 
+266,Soul,"December 25, 2020",https://en.m.wikipedia.org/wiki/Soul_(2020_film),100 minutes,150 M+,119.3 M,100 
+267,The Last Warrior: Root of Evil,"January 1, 2021",https://en.m.wikipedia.org/wiki/The_Last_Warrior:_Root_of_Evil,121 minutes,₽ 650 M,"['₽ 2.046 billion', '28.3 M (Worldwide)', '28.6 M (Russia/ CIS )']",121 
+268,Raya and the Last Dragon,"March 5, 2021",https://en.m.wikipedia.org/wiki/Raya_and_the_Last_Dragon,107 minutes,100 M+,122.7 M,107 
+269,Cruella,"May 28, 2021",https://en.m.wikipedia.org/wiki/Cruella_(film),134 minutes,100–200 M,233.3 M,134 
+270,Jungle Cruise,"July 30, 2021 (2021-07-30)",https://en.m.wikipedia.org/wiki/Jungle_Cruise_(film),127 minutes,200 M,204.6 M,127 
+271,Hocus Pocus 2,Fall 2022[40],https://en.m.wikipedia.org/wiki/Hocus_Pocus_(1993_film)#Legacy,96 minutes,28 M,44.9 M,96 
+272,Lilo & Stitch,TBA,https://en.m.wikipedia.org/wiki/Lilo_%26_Stitch#Live-action_adaptation,85 minutes,80 M,273.1 M,85 
+273,Snow White and the Seven Dwarfs,TBA,https://en.m.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)#Live-action_feature_film_adaptations,83 minutes,1.49 M,418 M,83 
+274,The Haunted Mansion,TBA,https://en.m.wikipedia.org/wiki/The_Haunted_Mansion_(film)#Reboot,86 minutes,90 M,182.3 M,86 
+275,The Return Of The Rocketeer,TBA,https://en.m.wikipedia.org/wiki/The_Rocketeer_(film)#Sequel,108 minutes,35-40 M,46.7 M ,108 
+276,Three Men and a Baby,TBA,https://en.m.wikipedia.org/wiki/Three_Men_and_a_Baby#Reboot,102 minutes,11 M,240 M,102 
+277,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",N/A,"https://en.m.wikipedia.org/wiki/Alexander_and_the_Terrible,_Horrible,_No_Good,_Very_Bad_Day_(film)",81 minutes,28 M,100.7 M,81 
+278,Bambi,N/A,https://en.m.wikipedia.org/wiki/Bambi#Computer-animated_remake,70 minutes,"858,000",267.4 M,70 
+279,Flight of the Navigator,N/A,https://en.m.wikipedia.org/wiki/Flight_of_the_Navigator#Remake,90 minutes,9 M,"18,564,613",90 
+280,Hunchback,Mandeville Films,https://en.m.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1996_film)#Live-action_remake,91 minutes,70 M,325.3 M,91 
+281,Hercules,N/A,https://en.m.wikipedia.org/wiki/Hercules_(1997_film)#Live-action_remake,93 minutes,85 M,252.7 M,93 
+282,Inspector Gadget,Rideback,https://en.m.wikipedia.org/wiki/Inspector_Gadget_(film)#Reboot,78 minutes,75–90 M,134.4 M,78 
+283,Robin Hood,N/A,https://en.m.wikipedia.org/wiki/Robin_Hood_(1973_film)#Live-action_adaptation,83 minutes,5 M,32 M,83 
